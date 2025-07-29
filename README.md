@@ -29,7 +29,7 @@ presale-kit/
 ├── ARCHITECTURE.md # Detailed program structure
 └── LICENSE
 
-## ⚙ Technologies
+##  Technologies
 
 - Rust / Anchor
 - Solana
